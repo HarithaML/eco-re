@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: /Users/hari/.gradle/caches/modules-2/files-2.1/mysql/mysql-c
+ onnector-java/8.0.20/d8d388e71c823570662a45dd33f4284141921280/mysql-con
+ nector-java-8.0.20.jar /Users/hari/.gradle/caches/modules-2/files-2.1/o
+ rg.jfree/jfreechart/1.5.0/bc7919249bac68c15c433ed51cb798a1bf8cd74e/jfre
+ echart-1.5.0.jar /Users/hari/.gradle/caches/modules-2/files-2.1/org.jfr
+ ee/jcommon/1.0.24/d5016f7703896c38f9e511f8a9edda2585cbac8b/jcommon-1.0.
+ 24.jar /Users/hari/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-a
+ pi/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar
+  /Users/hari/.gradle/caches/modules-2/files-2.1/com.google.protobuf/pro
+ tobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-
+ 3.6.1.jar
+Main-Class: com.project.gui.RMOLoginGUI
+Implementation-Title: eco-re
+Implementation-Version: 1.0.0
+
